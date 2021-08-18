@@ -1,4 +1,1 @@
 # wmc
-SQL Portfolio
-
-Contents
